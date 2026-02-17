@@ -1,0 +1,8 @@
+// package.json
+{{
+    "name": "qzndff8d",
+    "version": "3.5.3",
+    "scripts": {{
+        "start": "node index.js"
+    }}
+}}
